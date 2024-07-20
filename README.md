@@ -21,3 +21,13 @@
 
 4. Реализовать API, которое запускает процесс расчёта квартплаты
 в фоновом режиме (например в celery), и затем позволяет получить прогресс расчёта.
+
+Локальный путь к Swagger документации: http://127.0.0.1:8000/api_app/docs/
+
+![image](https://github.com/user-attachments/assets/51a71c34-8221-4b47-939f-ab0dfe833790)
+
+
+![image](https://github.com/user-attachments/assets/9c02e1bc-819d-40f6-b79f-2bcde4d7e9c7)
+
+![image](https://github.com/user-attachments/assets/4266d10c-5fb2-47d9-9a80-4ab05a41becf)
+
